@@ -1,1 +1,1 @@
-# A-Set-of-Colored-Markers
+Created a set of three markers for Bad Website Club's bootcamp using [freecodecamp's Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1).
